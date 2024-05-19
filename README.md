@@ -10,7 +10,7 @@ This project is using Node.js and mongoose framework
 
  ## Installation
  ```sh
- git clone https://github.com/yourusername/menu-management-backend.git
+ git clone https://github.com/Tanisha021/menu-management-routes
 
 cd menu-management-backend
 Certainly! Here's the content formatted for direct copying into your README.md file:
